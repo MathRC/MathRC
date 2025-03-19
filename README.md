@@ -4,7 +4,7 @@ I'm a **Data Scientist** with a background in **Materials Engineering** and a Ma
 
 🔍 I'm currently working on **data science portfolio projects**, which will be available here soon — with a focus on:
 - Data Analysis, Natural Language Processing (NLP), and Predictive Analytics
-- Tools: Python, pandas, scikit-learn, seaborn, matplotlib, NLTK, among others
+- Tools: Python, pandas, scikit-learn, seaborn, matplotlib, NLTK, and others
 
 💼 I bring over a decade of experience as a **specialist translator in IT and technology**, having worked with global leaders such as **Microsoft, Apple, Intel, Dell EMC, Google, LinkedIn, Samsung, Toshiba, LG, Sharp, Bosch, Siemens, Mailchimp, Semrush,** and many others.  
 
