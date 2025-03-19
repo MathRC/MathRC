@@ -7,6 +7,7 @@ I'm a **Data Scientist and NLP Specialist** with a background in **Materials Eng
 - Tools: Python, pandas, scikit-learn, seaborn, matplotlib, NLTK, among others
 
 💼 I bring over a decade of experience as a **specialist translator in IT and technology**, having worked with global leaders such as **Microsoft, Apple, Intel, Dell EMC, Google, LinkedIn, Samsung, Toshiba, LG, Sharp, Bosch, Siemens, Mailchimp, Semrush,** and many others.  
+
 I also have hands-on experience in **quality control**, **process optimization**, and **experimental design** from my earlier engineering career.
 
 🎓 Completed the **Associate Data Scientist in Python track (DataCamp)**
