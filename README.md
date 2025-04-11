@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** with a background in **Materials Engineering** and a Master’s in **Linguistics**. I'm passionate about data, problem solving, and applying practical solutions to real challenges.
 
-🔍 I'm currently working on **data science portfolio projects**, which will be available here soon — with a focus on:
+🔍 I'm currently working on **data science portfolio projects**, with a focus on:
 - Data Analysis, Natural Language Processing (NLP), and Predictive Analytics
 - Tools: Python, pandas, scikit-learn, seaborn, matplotlib, NLTK, and others
 
