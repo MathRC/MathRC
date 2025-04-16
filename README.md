@@ -6,7 +6,7 @@ I'm a **Data Scientist** with a background in **Materials Engineering** and a Ma
 - Data Analysis, Natural Language Processing (NLP), and Predictive Analytics
 - Tools: Python, pandas, scikit-learn, seaborn, matplotlib, NLTK, and others
 
-💼 I bring over a decade of experience as a **specialist translator in IT and technology**, having worked with global leaders such as **Microsoft, Apple, Intel, Dell EMC, Google, LinkedIn, Samsung, Toshiba, LG, Sharp, Bosch, Siemens, Mailchimp, Semrush,** and many others.  
+💼 I bring over a decade of experience as a **specialist translator in IT and technology**, having worked with global leaders such as Microsoft, Apple, Intel, Dell EMC, Google, LinkedIn, Samsung, Toshiba, LG, Sharp, Bosch, Siemens, Mailchimp, Semrush, and many others.  
 
 I also have hands-on experience in **quality control**, **process optimization**, and **experimental design** from my earlier engineering career.
 
