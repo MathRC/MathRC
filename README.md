@@ -12,4 +12,4 @@ I also have hands-on experience in **quality control**, **process optimization**
 
 🎓 Completed the **Associate Data Scientist in Python track (DataCamp)**
 
-🌐 [LinkedIn](https://www.linkedin.com/in/mrctranslations)
+🌐 [LinkedIn](https://www.linkedin.com/in/matheus-chaud/)
