@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Chaud!
 
-I'm a **Data Scientist** with a background in **Materials Engineering** and a Master’s in **Linguistics**. I'm passionate about data, problem solving, and applying practical solutions to real challenges.
+I'm a **Data Scientist** with a background in **Materials Engineering** and a Master’s in **Linguistics**. I'm passionate about languages, technology, and problem solving.
 
 🔍 I'm currently working on **data science portfolio projects**, with a focus on:
 - Data Analysis, Natural Language Processing (NLP), and Predictive Analytics
