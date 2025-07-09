@@ -8,7 +8,7 @@ Multidisciplinary professional transitioning into **Natural Language Processing 
 💻 Recent hands-on experience with real-world NLP projects like analyzing Reddit sentiment around Duolingo’s AI strategy and building AWS-hosted dashboards for data-driven insights
 
 
+
 🌐 Passionate about improving language technologies through data-driven methods and linguistic insight.
-🔗 Explore my work: github.com/MathRC
 
 📩 Open to conversations about NLP engineering, computational linguistics, machine translation improvement, or AI language research roles.
