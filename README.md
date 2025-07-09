@@ -1,15 +1,11 @@
-# Hi, I'm Matheus Chaud!
 
-I'm a **Data Scientist** with a background in **Materials Engineering** and a Master’s in **Linguistics**. I'm passionate about languages and technology.
+Multidisciplinary professional transitioning into **Natural Language Processing (NLP)** and **AI**, combining over 15 years of experience in **translation** and **computational linguistics** with recent training in data science and machine learning.
 
-I'm currently working on **data science portfolio projects**, with a focus on:
-- Data Analysis, Natural Language Processing (NLP), and Predictive Analytics
-- Tools: Python, pandas, scikit-learn, seaborn, matplotlib, NLTK, and others
+🎓 M.A. in Computational Linguistics
+🧪 Skilled in Python, Hugging Face Transformers, PyTorch, and Machine Translation Post-Editing (MTPE)
+💻 Recent hands-on experience with real-world NLP projects like analyzing Reddit sentiment around Duolingo’s AI strategy and building AWS-hosted dashboards for data-driven insights
 
-I bring over a decade of experience as a **specialist translator in IT and technology**, having worked with global leaders such as Microsoft, Apple, Intel, Dell EMC, Google, LinkedIn, Samsung, Toshiba, LG, Sharp, Bosch, Siemens, Mailchimp, Semrush, and many others.  
+🌐 Passionate about improving language technologies through data-driven methods and linguistic insight.
+🔗 Explore my work: github.com/MathRC
 
-I also have hands-on experience in **quality control**, **process optimization**, and **experimental design** from my earlier engineering career.
-
-🎓 Completed the **Associate Data Scientist in Python track (DataCamp)**
-
-[LinkedIn](https://www.linkedin.com/in/matheus-chaud/)
+📩 Open to conversations about NLP engineering, computational linguistics, machine translation improvement, or AI language research roles.
