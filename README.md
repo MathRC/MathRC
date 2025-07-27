@@ -9,6 +9,6 @@ Multidisciplinary professional transitioning into **Natural Language Processing 
 
 
 
-🌐 Passionate about improving language technologies through data-driven methods and linguistic insight.
+🌐 Passionate about languages, technology, and data-driven methods.
 
 📩 Open to conversations about NLP engineering, computational linguistics, machine translation improvement, or AI language research roles.
