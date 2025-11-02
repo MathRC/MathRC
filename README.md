@@ -3,9 +3,9 @@ Multidisciplinary professional transitioning into **Natural Language Processing 
 
 🎓 M.A. in Computational Linguistics
 
-🧪 Skilled in Python, Hugging Face Transformers, PyTorch, and Machine Translation Post-Editing (MTPE)
+🧪 Skilled in Python, Hugging Face Transformers, PyTorch, and applied NLP
 
-💻 Recent hands-on experience with real-world NLP projects like analyzing Reddit sentiment around Duolingo’s AI strategy and building AWS-hosted dashboards for data-driven insights
+💻 Recent hands-on experience with real-world NLP projects like a sentiment analysis of Reddit discussions on Duolingo’s AI strategy and a RAG-based knowledge assistant for translators
 
 
 
