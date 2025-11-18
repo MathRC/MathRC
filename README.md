@@ -1,4 +1,4 @@
-Computational Linguist and NLP Engineer with strong experience in language technologies and recent training in graph databases, knowledge modeling, and Cypher querying. Actively expanding skills in Neo4j and semantic technologies to integrate graph-based approaches into NLP and AI workflows.
+Computational Linguist and NLP Engineer with strong experience in language technologies and a recent Neo4j certification. Currently expanding skills in graph databases, knowledge modeling, and Cypher to incorporate graph-based methods into NLP and AI workflows.
 
 TECHNICAL SKILLS
 - AI & ML: Hugging Face Transformers, LLMs, Prompt Engineering, RAG, Weaviate, Sentiment Analysis, PyTorch, spaCy, NLTK
