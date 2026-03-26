@@ -1,11 +1,14 @@
-Computational Linguist with strong experience in language technologies and a recent Neo4j certification. Currently expanding skills in graph databases, knowledge modeling, RDF, and SPARQL to incorporate graph-based methods into NLP and AI workflows.
+Knowledge Engineer with a Master's in Computational Linguistics (NLP focus) and 11 years in IT localization. 
+Designs ontologies, knowledge graphs, and RAG systems using Neo4j, Cypher, and Python. Neo4j Certified Professional.
 
 TECHNICAL SKILLS
-- AI & ML: Hugging Face Transformers, LLMs, Prompt Engineering, RAG, Weaviate, Sentiment Analysis, PyTorch, spaCy, NLTK
-- Graph Technologies: Neo4j (Cypher), Graph Data Modeling, Knowledge Graphs
-- Programming: Python (NumPy, pandas, scikit-learn, PyMuPDF), Regex, SQL
-- Linguistic Expertise: Morphology, Syntax, Semantics, Computational Linguistics, Translation QA, CAT Tools
+- Graph & Semantic Technologies: Neo4j, Cypher, Knowledge Graphs, Ontology Design, Graph Algorithms (centrality, community detection, similarity), Graph Data Modeling
+- Semantic Web (in progress): RDF, OWL, SPARQL
+- AI & Retrieval: LLMs, RAG, Prompt Engineering, Embeddings (sentence-transformers)
+- NLP: Hugging Face Transformers, spaCy, NLTK, Sentiment Analysis, Entity Extraction, Corpus Annotation
+- Programming: Python (pandas, NumPy, scikit-learn, NetworkX, matplotlib), SQL, Regex
+- Languages: Portuguese (native), English (fluent), Spanish (advanced), German (beginner)
 
-🌐 Passionate about languages, technology, and data-driven methods.
+🌐 Passionate about languages and technology.
 
-📩 Open to conversations about knowledge engineering, computational linguistics, NLP, or AI language research roles.
+📩 Open to roles in knowledge engineering, ontology design, and NLP.
