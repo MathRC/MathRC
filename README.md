@@ -10,6 +10,6 @@ Deployment: Docker, Streamlit, AWS, Amazon Bedrock
 Programming: Python (pandas, NumPy, scikit-learn, NetworkX, matplotlib), SQL, Regex
 Languages: Portuguese (native), English (fluent), Spanish (advanced), German (beginner)
 
-🌐 Passionate about languages and technology.
-🔗 Portfolio: github.com/MathRC
+🌐 Passionate about languages and technology.  
+🔗 Portfolio: github.com/MathRC  
 📩 Open to roles in knowledge engineering, ontology design, NLP, and AI engineering.
